@@ -11,7 +11,7 @@ margin: 0;
 
 .container {
   /*width: 750px;*/
-  border: 1px solid grey;
+
   min-height: 667px;
   /*margin: 0 auto;*/
 
@@ -23,7 +23,6 @@ margin: 0;
 
 .navBar {
   height: 88px;
-  border-bottom: 1px solid grey;
 
 }
 .main {
