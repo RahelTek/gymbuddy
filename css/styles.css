@@ -2,7 +2,7 @@ body {
   background-color: #ffffff;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 14px;
-
+margin: 0;
 
 }
 
@@ -10,10 +10,10 @@ body {
 
 
 .container {
-  width: 750px;
+  /*width: 750px;*/
   border: 1px solid grey;
-  min-height: 667px;
-  margin: 0 auto;
+  /*min-height: 667px;*/
+  /*margin: 0 auto;*/
 
 
 }
