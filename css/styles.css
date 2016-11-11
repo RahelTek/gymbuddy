@@ -18,11 +18,17 @@ margin: 0;
 
 }
 
+.logo {
 
+}
 
 
 .navBar {
   height: 88px;
+
+}
+
+.navBar p {
 
 }
 .main {
@@ -34,6 +40,10 @@ margin: 0;
   background-color: #2096f3;
   height: 1334px;
   color: #ffffff;
+}
+
+.checkIn h1 {
+  
 }
 .navBottom {
   background-color: #2096f3;
