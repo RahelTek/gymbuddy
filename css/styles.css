@@ -19,7 +19,11 @@ margin: 0;
 }
 
 .logo {
-
+  position: absolute;
+      left: 60%;
+      top: 10%;
+      margin-left: -180px;
+      margin-top: -150px;
 }
 
 
@@ -38,7 +42,7 @@ margin: 0;
 
 .checkIn {
   background-color: #2096f3;
-  height: 1334px;
+  height:100vh;
   color: #ffffff;
 }
 
@@ -66,7 +70,7 @@ margin: 0;
 .selectBox p {
   color: black;
   font-size: 20pt;
-  padding-top: 100px;
+  padding-top: 70px;
 
 
 
