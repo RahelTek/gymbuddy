@@ -12,7 +12,7 @@ margin: 0;
 .container {
   /*width: 750px;*/
   border: 1px solid grey;
-  /*min-height: 667px;*/
+  min-height: 667px;
   /*margin: 0 auto;*/
 
 
@@ -33,7 +33,7 @@ margin: 0;
 
 .checkIn {
   background-color: #2096f3;
-  min-height: 549px;
+  min-height: 1334px;
   color: #ffffff;
 }
 .navBottom {
