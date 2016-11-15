@@ -2,7 +2,7 @@ body {
   background-color: #ffffff;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 14px;
-margin: 0;
+  margin: 0;
 
 }
 
@@ -72,7 +72,7 @@ margin: 0;
 
 .selectBox {
   background-color: #ffffff;
-  height: 47%;
+  height: 45%;
   width: 80%;
   margin: auto;
 
