@@ -72,7 +72,7 @@ margin: 0;
 
 .selectBox {
   background-color: #ffffff;
-  height: 40%;
+  height: 100%;
   width: 80%;
   margin: auto;
 
@@ -80,7 +80,7 @@ margin: 0;
 
 .selectBox p {
   color: black;
-  font-size: 25pt;
+  font-size: 30pt;
   padding-top: 40px;
 
 
