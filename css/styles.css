@@ -20,10 +20,10 @@ margin: 0;
 
 .logo {
   position: absolute;
-      left: 60%;
-      top: 10%;
-      margin-left: -180px;
-      margin-top: -130px;
+  left: 60%;
+  top: 10%;
+  margin-left: -180px;
+  margin-top: -130px;
 }
 
 
@@ -43,7 +43,7 @@ margin: 0;
 
 .shareIcon {
   position: absolute;
-      top: 300%;
+
 
 }
 
@@ -76,7 +76,7 @@ margin: 0;
 
 .selectBox p {
   color: black;
-  font-size: 20pt;
+  font-size: 30pt;
   padding-top: 70px;
 
 
