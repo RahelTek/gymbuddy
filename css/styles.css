@@ -101,7 +101,7 @@ body {
 .navBottom h2 {
   color: #ffffff;
   font-size: 30pt;
-  co
+
 
 
 }
@@ -122,4 +122,9 @@ body {
    -moz-border-radius: 1px;
    -webkit-border-radius: 1px;
 
+}
+
+.arrow1 {
+  transform: rotate(270deg);
+  height: 110px;
 }
