@@ -58,6 +58,7 @@ body {
   background-color: #2096f3;
   height:100vh;
   color: #ffffff;
+  border: none;
 }
 
 .checkIn h1 {
