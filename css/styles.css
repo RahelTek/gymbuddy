@@ -102,8 +102,9 @@ body {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 70px;
+  font-size: 30px;
   color: white;
   width: 90px;
   height: 40px;
+  border-radius: 2px;
 }
