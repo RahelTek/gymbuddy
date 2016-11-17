@@ -127,10 +127,10 @@ body {
 
 .arrow1 {
   transform: rotate(270deg);
-  height: 110px;
+  height: 150px;
 }
 
 .arrow2 {
   transform: rotate(90deg);
-  height: 110px;
+  height: 150px;
 }
