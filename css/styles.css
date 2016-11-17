@@ -26,7 +26,9 @@ body {
   margin-top: -130px;
 }
 
-
+.container {
+  background-color: white;
+}
 .navBar {
   height: 88px;
   background-color: white;
