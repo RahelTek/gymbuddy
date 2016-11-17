@@ -20,7 +20,7 @@ body {
 
 .logo {
   position: absolute;
-  left: 61%;
+  left: 62%;
   top: 10%;
   margin-left: -180px;
   margin-top: -130px;
@@ -151,7 +151,7 @@ body {
 .circleRow {
   display:flex;
   position: absolute;
-  left: 42%;
+  left: 41%;
   margin-top: 40px;
 
 
