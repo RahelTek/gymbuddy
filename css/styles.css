@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #2096f3;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 14px;
   margin: 0;
@@ -29,6 +29,7 @@ body {
 
 .navBar {
   height: 88px;
+  background-color: white;
 
 }
 
