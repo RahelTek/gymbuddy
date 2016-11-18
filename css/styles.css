@@ -321,6 +321,13 @@ body {
   color: white;
 }
 
+.login {
+  display:flex;
+  position: absolute;
+  left: 41%;
+  margin-top: 40px;
+
+}
 .login h1 {
   text-align: center;
   font-size: 30pt;
