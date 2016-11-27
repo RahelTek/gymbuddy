@@ -85,6 +85,14 @@ body {
 
 }
 
+.selectBox2 {
+  background-color: #ffffff;
+  height: 80%;
+  width: 90%;
+  margin: auto;
+
+}
+
 .selectBox p {
   color: black;
   font-size: 30pt;
