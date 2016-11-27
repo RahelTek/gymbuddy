@@ -79,13 +79,20 @@ body {
 
 .selectBox {
   background-color: #ffffff;
-  height: 60%;
+  height: 40%;
   width: 90%;
   margin: auto;
 
 }
 
 
+.selectBox2 {
+  background-color: #ffffff;
+  height: 60%;
+  width: 90%;
+  margin: auto;
+
+}
 
 
 
