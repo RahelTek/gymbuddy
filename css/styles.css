@@ -168,6 +168,15 @@ body {
 }
 
 
+.select {
+    border:0;
+    background:transparent;
+    height:32px;
+    border:1px solid #d8d8d8;
+    width:350px;
+    -webkit-appearance: none;
+}
+
 
 .navBottom {
   color: #2096f3;
