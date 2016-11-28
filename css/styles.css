@@ -110,6 +110,14 @@ body {
 
 }
 
+.selectBox5 {
+  background-color: #ffffff;
+  height: 10%;
+  width: 90%;
+  margin: auto;
+
+}
+
 
 .selectBox p {
   color: black;
