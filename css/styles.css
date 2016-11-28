@@ -32,6 +32,7 @@ body {
 
 .container1 p {
   font-size: 14px;
+  padding-left: 20px;
 }
 .navBar {
   height: 88px;
