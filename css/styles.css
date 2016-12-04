@@ -174,7 +174,8 @@ body {
 .selectBox2 p {
   color: black;
   font-size: 30pt;
-  margin-left: -180px;
+  margin-left: 100px;
+  padding-top: 40px;
 
 
 
