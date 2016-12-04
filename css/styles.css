@@ -285,6 +285,24 @@ body {
 
 }
 
+.circle2 {
+	width: 15px;
+	height: 15px;
+	background: #5d5d5d;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+   margin-right: 15px;
+
+}
+
+.circleRow2 {
+  display:block;
+  left: 41%;
+  margin-top: 40px;
+  float:right;
+
+}
 
 .container {
   margin: 80px auto;
