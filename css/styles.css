@@ -37,12 +37,16 @@ body {
 
 .containerNav {
   background-color: #323232;
-  min-height: 800px;
+
 }
 
 .containerNav p {
   font-size: 25pt;
   padding-left: 20px;
+}
+
+.darkLogo {
+  margin-top: 50px;
 }
 .navBar {
   height: 88px;
