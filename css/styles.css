@@ -174,7 +174,7 @@ body {
 .selectBox2 p {
   color: black;
   font-size: 30pt;
-  padding-top: 40px;
+  padding-top: 20px;
 
 
 
@@ -216,7 +216,12 @@ body {
 }
 
 .trophy {
-  margin-top: 77px;
+  margin-top: 57px;
+}
+
+.bike {
+  padding-right: 14px;
+  margin-top: 11px;
 }
 .navBottom {
   color: #2096f3;
