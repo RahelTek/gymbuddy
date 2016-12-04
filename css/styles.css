@@ -274,8 +274,9 @@ body {
   margin-top: 11px;
 }
 .navBottom {
-  color: #2096f3;
+  background-color: #2096f3;
   border: none;
+  height: 200px;
 
 
 }
@@ -351,7 +352,7 @@ body {
 }
 
 .checkicon {
-  margin-top: -180px;
+  margin-top: -83px;
 }
 
 .navBottom h1 {
