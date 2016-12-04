@@ -311,6 +311,15 @@ body {
   height: 130px;
 }
 
+
+.stat li {
+  text-align: center;
+  font-size: 30pt;
+  color: #9fa2a3;
+  padding-top: 20px;
+  padding-left: 95px;
+}
+
 .circle {
 	width: 40px;
 	height: 40px;
