@@ -330,7 +330,7 @@ body {
 
 .buddies li {
   text-align: center;
-  font-size: 15pt;
+  font-size: 20pt;
   color: #323232;
   padding-top: 10px;
   padding-left: 90px;
@@ -437,10 +437,12 @@ body {
   border: solid 5px #c9c9c9;
   transition: border 0.3s;
   height: 40px;
+
 }
 .style-2 input[type="text"]:focus,
 .style-2 input[type="text"].focus {
   border: solid 5px #969696;
+  font-size: 30px;
 }
 
 .greyBox {
