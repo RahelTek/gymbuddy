@@ -178,6 +178,7 @@ body {
 
 
 
+
 }
 
 .selectBox3 p {
@@ -214,6 +215,9 @@ body {
     -webkit-appearance: none;
 }
 
+.trophy {
+  margin-top: 100px;
+}
 .navBottom {
   color: #2096f3;
   border: none;
