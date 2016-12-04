@@ -1,5 +1,5 @@
 body {
-  
+
   font-family: "Roboto-Regular", sans-serif;
   font-size: 14px;
   margin: 0;
@@ -37,6 +37,7 @@ body {
 
 .containerNav {
   background-color: #323232;
+  min-height: 670px;
 }
 
 .containerNav p {
