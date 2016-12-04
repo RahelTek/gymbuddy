@@ -291,8 +291,18 @@ body {
 
 }
 
+.checkin {
+  margin-top: -160px;
+}
+
+.navBottom h1 {
+  color: #ffffff;
+  font-size: 35pt;
+  margin-top: 10px;
+  margin-bottom: 50px;
 
 
+}
 .container {
   margin: 80px auto;
   width: 90%;
