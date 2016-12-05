@@ -505,3 +505,26 @@ body {
 .profileInfo h2 {
   font-size: 40pt;
 }
+
+.button {
+  background-color: #2096f3;
+  width: 800px;
+  height: 110px;
+}
+
+.style-4 input[type="text"] {
+  padding: 10px;
+  border: none;
+  border-bottom: solid 2px #c9c9c9;
+  transition: border 0.3s;
+}
+.style-4 input[type="text"]:focus,
+.style-4 input[type="text"].focus {
+  border-bottom: solid 2px #969696;
+}
+
+.prompts p{
+  color: white;
+  font-size: 25pt;
+  text-align: center;
+}
