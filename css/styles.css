@@ -172,6 +172,14 @@ body {
 
 }
 
+.selectBoxGyms {
+  background-color: #ffffff;
+  height: 58%;
+  width: 90%;
+  margin: auto;
+
+}
+
 .selectBox3 {
   background-color: #ffffff;
   height: 58%;
@@ -222,6 +230,15 @@ body {
 
 }
 
+.selectBoxGyms p {
+  color: black;
+  font-size: 23pt;
+  padding-top: 40px;
+
+
+
+
+}
 
 .selectBoxNav p {
   color: white;
@@ -332,8 +349,8 @@ body {
   text-align: center;
   font-size: 25pt;
   color: #323232;
-  padding-top: 10px;
-  padding-left: 121px;
+  padding-top: 6px;
+  padding-left: 123px;
 }
 
 
