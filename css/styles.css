@@ -500,7 +500,7 @@ body {
 
 .profileInfo {
   margin-top: -450px;
-  margin-right: -400px;
+  padding-left: 400px;
 }
 .profileInfo h2 {
   font-size: 40pt;
