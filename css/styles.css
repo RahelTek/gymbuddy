@@ -353,6 +353,13 @@ body {
   padding-left: 123px;
 }
 
+.gyms li {
+  text-align: center;
+  font-size: 25pt;
+  color: #323232;
+  padding-top: 6px;
+  padding-left: 137px;
+}
 
 .circle {
 	width: 40px;
